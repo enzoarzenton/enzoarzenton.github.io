@@ -1,0 +1,33 @@
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-size: 14px;
+    font-family: 'Noto Sans Mono', monospace;
+  }
+
+  /* .grid {
+    border: 1px red solid
+  } */
+
+  img {
+    width: 15em;  
+  } 
+
+  .img-single {
+    width: 20em;
+  }
+
+
+  a, a:hover {
+    text-decoration: none;
+    color: #000;
+  }
+
+.footer-wrapper {
+  font-size: 10px;
+}

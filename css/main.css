@@ -15,11 +15,28 @@
   } */
 
   img {
-    width: 15em;  
+    width: 20em;  
   } 
 
+  .navbar {
+    display: block;
+    text-align: center;
+  }
+  .avatar {
+    width: 5em;
+    border-radius: 50%;
+  }
+
+  .material-icons {
+    font-size: 18px; 
+  }
+
+  .drawing-title-container {
+    text-align: center;
+  }
+
   .img-single {
-    width: 20em;
+    width: 40em;
   }
 
 

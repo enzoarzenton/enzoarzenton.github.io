@@ -1,72 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Edoardo Arzenton</title>
+    <title>Enzo Arzenton</title>
     <link>/</link>
-    <description>Recent content on Edoardo Arzenton</description>
+    <description>Recent content on Enzo Arzenton</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 17 Oct 2021 16:36:46 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>#4</title>
+      <title>Ballo a Bougival</title>
       <link>/post/4/</link>
       <pubDate>Sun, 17 Oct 2021 16:36:46 +0200</pubDate>
       
       <guid>/post/4/</guid>
-      <description></description>
+      <description>Pierre-Auguste Renoir</description>
     </item>
     
     <item>
-      <title>#9</title>
+      <title>Mademoiselle Caroline Rivière</title>
+      <link>/post/9-copy/</link>
+      <pubDate>Sun, 17 Oct 2021 16:36:46 +0200</pubDate>
+      
+      <guid>/post/9-copy/</guid>
+      <description>Jean-Auguste-Dominique Ingres</description>
+    </item>
+    
+    <item>
+      <title>Tondo Doni</title>
       <link>/post/9/</link>
       <pubDate>Sun, 17 Oct 2021 16:36:46 +0200</pubDate>
       
       <guid>/post/9/</guid>
-      <description></description>
+      <description>Michelangelo</description>
     </item>
     
     <item>
-      <title>#3</title>
+      <title>I bari</title>
       <link>/post/3/</link>
       <pubDate>Sun, 17 Oct 2021 16:36:16 +0200</pubDate>
       
       <guid>/post/3/</guid>
-      <description></description>
+      <description>Caravaggio</description>
     </item>
     
     <item>
-      <title>#8</title>
+      <title>Vaso con iris</title>
       <link>/post/8/</link>
       <pubDate>Wed, 21 Oct 2020 16:36:46 +0200</pubDate>
       
       <guid>/post/8/</guid>
-      <description></description>
+      <description>Van Gogh</description>
     </item>
     
     <item>
-      <title>#6</title>
+      <title>Incoronazione di spine</title>
       <link>/post/6/</link>
       <pubDate>Mon, 19 Oct 2020 16:36:46 +0200</pubDate>
       
       <guid>/post/6/</guid>
-      <description></description>
+      <description>Caravaggio</description>
     </item>
     
     <item>
-      <title>#5</title>
+      <title>Betsabea al bagno</title>
       <link>/post/5/</link>
       <pubDate>Sun, 18 Oct 2020 16:36:46 +0200</pubDate>
       
       <guid>/post/5/</guid>
-      <description></description>
+      <description>Francesco Hayez</description>
     </item>
     
     <item>
-      <title>#7</title>
+      <title>Bacco</title>
       <link>/post/7/</link>
       <pubDate>Sun, 20 Oct 2019 16:36:46 +0200</pubDate>
       
       <guid>/post/7/</guid>
-      <description></description>
+      <description>Caravaggio</description>
+    </item>
+    
+    <item>
+      <title>Biografia</title>
+      <link>/bio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bio/</guid>
+      <description>Enzo Arzenton nasce a Olmo di Creazzo (Vicenza) il 26 dicembre 1934.
+Le sue innate capacità artistiche, in particolare per la scultura e la pittura, si manifestano sin dalla più tenera età, destinandolo a una lunga carriera che lo porterà anche negli Stati Uniti. In America, è nientemeno che la Walt Disney a restare incantata dalle sue doti e a proporgli l’esclusiva riproduzione di alcune delle sue più note favole, che prenderanno così vita in creazioni di fine porcellana uniche nel loro genere.</description>
     </item>
     
   </channel>
